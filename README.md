@@ -1,4 +1,6 @@
  Breakfast_Cereal_data_analysis_R
+ 
+ 
 The data file I am analyzing contains nutritional information and grocery shelf location for 77 breakfast cereals.
 Current research states that adults should consume no more than 30% of their calories in the form of fat, they need about 50 grams (women) or 63 grams (men) of protein daily, and should provide for the remainder of their caloric intake with complex carbohydrates. One gram of fat contains 9 calories and carbohydrates and proteins contain 4 calories per gram. A "good" diet should also contain 20-35 grams of dietary fiber.
 
